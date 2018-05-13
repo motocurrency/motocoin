@@ -1,7 +1,7 @@
 Motocoin integration/staging tree
 ================================
 
-https://motocoin-dev.github.io/motocoin-site/
+https://motocurrency.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 
@@ -37,7 +37,7 @@ Network parameters:
  strong reason to support Motocoin. Portions of these coins will be used for bounties and giveaways.
 
 For more information, as well as an immediately useable, binary version of
-the Motocoin client sofware, see http://www.motocoin.org or https://motocoin-dev.github.io/motocoin-site/
+the Motocoin client sofware, see https://motocurrency.org
 
 License
 -------
